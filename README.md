@@ -19,5 +19,5 @@
 ###### https://xtra-labs.gitbook.io/xtra/xtra-labs/introduction
 
 ## Release
-###### link (change)
+###### [Last Release](https://github.com/xtralab56/XTRA_trade/releases/tag/beta)
 
